@@ -1,0 +1,13 @@
+{
+  "name": "volar-globals-quasar",
+  "version": "1.0.0",
+  "description": "Global Quasar component type declarations for Volar's completion",
+  "main": "",
+  "types": "index.d.ts",
+  "author": "Andreas Philippi",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "quasar": "~2.0.1"
+  }
+}
