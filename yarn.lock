@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-quasar@~2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/quasar/-/quasar-2.0.1.tgz#31119684cc7a1b918c28c34aa910cc05c2a05299"
-  integrity sha512-DDxcuEardFvebCTNeGeneS/3NazY9ZqNPII9o2VC/ujZn7/hIWDsB0ajYJG8l/pV8kkiaiaIBaE93EzoXfEXrA==
+quasar@^2.3.4:
+  version "2.3.4"
+  resolved "https://registry.yarnpkg.com/quasar/-/quasar-2.3.4.tgz#cd622f84ad4fc9bd4c156d4a0e6f896e3e92d27b"
+  integrity sha512-VgqjuzlRqZU2t4gKDHQHc/gt9nKXi9y1VRM7xYO6VOuJcm48wgOzyBdTwl1vVseghWeEIEHRM9M+R629WWF9MQ==
